@@ -1,0 +1,8 @@
+Instead of using Hana alone (files in -I/usr/local/hana locally), try to
+see if installing all of Boost (sudo apt install libboost-dev on Ubuntu)
+also works.
+
+Boost'd install a lot more than needed but will make installation much
+easier hopefully.
+
+First try with Hana alone.
